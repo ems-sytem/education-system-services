@@ -1,3 +1,10 @@
+/target
+/data
+.project
+.mvn
+.settings
+.classpath
+*.log
 *.class
 
 # Mobile Tools for Java (J2ME)
