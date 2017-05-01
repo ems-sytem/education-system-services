@@ -156,12 +156,12 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>io.github.swagger2markup</groupId>
 			<artifactId>swagger2markup-spring-restdocs-ext</artifactId>
 			<version>${swagger2markup.version}</version>
 			<scope>test</scope>
-		</dependency>
+		</dependency> -->
 
 		<!-- dependency injection jsr 330 -->
 		<dependency>
